@@ -9,11 +9,10 @@ Grace Mugure Ndungu : ndungugracie06@gmail.com
 ![home1](https://github.com/user-attachments/assets/04f66519-ec65-4115-a0e5-7e2b3821e4cb)
 ![Home2](https://github.com/user-attachments/assets/9c02d117-0c4c-4da0-bed2-d1574c8341aa)
 ![Home3](https://github.com/user-attachments/assets/ba1fdda0-834e-49f6-8cfe-9a256b802ad6)
-![Home7](https://github.com/user-attachments/assets/8e10fa28-0838-438e-a4f9-7c89b280e99a)
-![Home6](https://github.com/user-attachments/assets/1d9f8eec-9164-4045-9304-fdf0ed3f11bf)
-![Home5](https://github.com/user-attachments/assets/d4a56a52-73a7-400c-9962-b9315e2b54ca)
 ![Home4](https://github.com/user-attachments/assets/db702363-0e21-4cb2-8eb0-e821a7e22b7b)
-
+![Home5](https://github.com/user-attachments/assets/d4a56a52-73a7-400c-9962-b9315e2b54ca)
+![Home6](https://github.com/user-attachments/assets/1d9f8eec-9164-4045-9304-fdf0ed3f11bf)
+![Home7](https://github.com/user-attachments/assets/8e10fa28-0838-438e-a4f9-7c89b280e99a)
 
 
 ## ✨ Features
