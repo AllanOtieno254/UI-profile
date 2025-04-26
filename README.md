@@ -1,6 +1,9 @@
 GROUP MEMBERS:
+
 Allan Otieno : allanotieno2001@gmail.com
+
 Ryan Wanje   : wanjeryan01@gmail.com
+
 Grace Mugure Ndungu : ndungugracie06@gmail.com
 
 
